@@ -1,1 +1,46 @@
-/* CSS declarations go here */
+body {
+  font-family: 'Sintony', sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+button {
+  margin-top: 30px;
+  padding-left: 30px;
+}
+
+.wrapper {
+  width: 980px;
+  height: auto;
+}
+
+div.nifp-logo {
+  height: 50px;
+  width: 50px;
+  /*padding-left: 80px;
+  padding-bottom: 20px;*/
+  font-family: 'Sintony';
+}
+
+.ency-logo {
+  height: 50px;
+  width: 50px;
+  /*padding-left: 50px;
+  padding-top: 90px;*/
+}
+
+.presents {
+  top: 100px;
+}
+
+.description {
+  /*background-color: #35D9F2;*/
+  margin-top: 230px;
+  text-align: left;
+  font-family: 'Sintony';
+  font-size: 18px;
+  color: #6D6D6D;
+}
+
