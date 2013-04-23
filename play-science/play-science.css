@@ -12,6 +12,7 @@ button {
 }
 
 .wrapper {
+  margin-top: 30px;
   width: 980px;
   height: auto;
 }
@@ -35,9 +36,17 @@ div.nifp-logo {
   top: 100px;
 }
 
+.header-description{
+  margin-top: 230px;
+  text-align: left;
+  font-family: 'Sintony';
+  font-size: 18px;
+  color: #6D6D6D;
+}
+
 .description {
   /*background-color: #35D9F2;*/
-  margin-top: 230px;
+  margin-top: 20px;
   text-align: left;
   font-family: 'Sintony';
   font-size: 18px;
